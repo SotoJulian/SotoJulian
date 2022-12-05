@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Julián Soto</h1>
+<h1>Hi 👋, I'm Julián Soto</h1>
 <p align="center"></p><img width="200" src="https://raw.githubusercontent.com/gist/moonheekim0118/bcbbb9c2fd8c477027617a67e0ec812f/raw/2c15614ff01ff7518bcd6da526939644c8324e11/octocat.gif"/>
 <h4 align="center">I'm full stack developer, a proactive person committed to do what I propose with a big motivation to learn new technologies and improve my knowledge. 😀</h4>
 
