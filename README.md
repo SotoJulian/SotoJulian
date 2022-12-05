@@ -1,7 +1,6 @@
-### Hi there 👋, my name is Julian Soto
-![](https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif)
 
 <h1 align="center">Hi 👋, I'm Julián Soto</h1>
+![](https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif)
 <h3 align="center">I'm full stack developer, a proactive person committed to do what I propose with a big motivation to learn new technologies and improve my knowledge.</h3>
 
 <h3 align="left">Connect with me:</h3>
