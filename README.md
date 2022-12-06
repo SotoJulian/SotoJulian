@@ -1,4 +1,3 @@
-
 <h1>Hi 👋, I'm Julián Soto</h1>
 
 <img width="200" align="right" src="https://raw.githubusercontent.com/gist/moonheekim0118/bcbbb9c2fd8c477027617a67e0ec812f/raw/2c15614ff01ff7518bcd6da526939644c8324e11/octocat.gif"/>
@@ -15,8 +14,8 @@
 
 <h3 align="left">Proyects:</h3>
 <ul>
+  <li>Find me home! <a href="https://proyecto-final-6jxzmv8cc-carolinambb.vercel.app/">Conocelo!</a></li>
+  <img with="300" height="250" src="./food1.png">
   <li>Food <a href="https://github.com/SotoJulian/PI-FOOD-SOTOJ">(GitHub)</a></li>
-  <li>hola</li>
-  <li>hola</li>
+  <img with="300" height="250" src="./food1.png">
 </ul>
-
