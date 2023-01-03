@@ -14,7 +14,7 @@
 
 <h3 align="left">Proyects:</h3>
 <ul>
-  <li>Find me home! <a href="https://proyecto-final-6jxzmv8cc-carolinambb.vercel.app/">Conocelo!</a></li>
+  <li>Find me a home! <a href="https://proyecto-final-6jxzmv8cc-carolinambb.vercel.app/">Conocelo!</a></li>
   <img with="300" height="280" src="./fmh.png">
   <li>Food <a href="https://github.com/SotoJulian/PI-FOOD-SOTOJ">(GitHub)</a></li>
   <img with="300" height="270" src="./food1.png">
